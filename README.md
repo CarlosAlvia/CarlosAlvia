@@ -6,11 +6,10 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Carlos Alvia
+* Ocupación: Estudiante de ingeniería en computación
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
+* Bases de datos
+* Programación de aplicaciones móviles

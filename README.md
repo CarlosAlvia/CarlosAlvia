@@ -7,7 +7,7 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Carlos Alvia
-* Ocupación: Estudiante de ingeniería en computación
+* Ocupación: Estudiante de ingeniería en computación en ESPOL
 ## Proyectos
 * [Currículum HTML](https://carlosalvia.github.io/curriculum/)
 ## Intereses

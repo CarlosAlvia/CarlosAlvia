@@ -9,7 +9,7 @@ proyectos y mis intereses.
 * Nombre: Carlos Alvia
 * Ocupación: Estudiante de ingeniería en computación
 ## Proyectos
-* [Lista de tus proyectos]
+* Currículum HTML
 ## Intereses
 * Bases de datos
 * Programación de aplicaciones móviles

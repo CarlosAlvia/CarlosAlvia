@@ -14,3 +14,5 @@ proyectos y mis intereses.
 ## Intereses
 * Bases de datos
 * Programación de aplicaciones móviles
+* Inteligencia Artificial
+* Ciencia de datos

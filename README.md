@@ -11,6 +11,7 @@ proyectos y mis intereses.
 * Cursando Tecnología Superior en Comunicación y Relaciones Públicas en el Tecnológico Espíritu Santo
 ## Proyectos
 * [Currículum HTML](https://carlosalvia.github.io/curriculum/)
+* [Landing Page](https://carlosalvia.github.io/landing/)
 ## Intereses
 * Bases de datos
 * Programación de aplicaciones móviles

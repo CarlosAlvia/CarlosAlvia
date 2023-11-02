@@ -7,8 +7,8 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Carlos Alvia
-* Cursando Ingeniería en Computación en la Escuela Superior Politécnica del Litoral (ESPOL)
-* Cursando Tecnología Superior en Comunicación y Relaciones Públicas en el Tecnológico Espíritu Santo
+* Cursando Ingeniería en Computación - Escuela Superior Politécnica del Litoral (ESPOL)
+* Cursando Tecnología Superior en Comunicación y Relaciones Públicas - Tecnológico Espíritu Santo (TES)
 ## Proyectos
 * [Currículum HTML](https://carlosalvia.github.io/curriculum/)
 * [Landing Page](https://carlosalvia.github.io/landing/)
